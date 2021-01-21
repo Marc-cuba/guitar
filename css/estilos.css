@@ -1,0 +1,150 @@
+
+/*body{
+
+	font-family: sans-serif;
+	background-color: blue;
+}
+
+.*/
+
+#titulo{
+	text-align: center;
+	color:white;
+}
+
+#pag1{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag1 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+#pag1 p {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+	image-rendering: center;
+}
+#pag2{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag2 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+
+#pag3{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag3 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+
+#pag4{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag4 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+
+#pag5{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag5 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+
+#pag6{
+	background-color:#0f2940;
+	color:white;
+	text-align: justify-all;
+	padding-left: 15px;
+}
+#pag6 h2 {
+	background-color:#0f2940;
+	color:white;
+	text-align: left;
+	padding-left: 10px;
+}
+#sonidos{
+	color:white;
+	text-align: center;
+}
+
+.espacio{
+	padding-top: 4px;
+	padding-bottom: 5px;
+}
+
+#btn_comprar{
+	
+	padding-right: 50px;
+	/*background-image-source: ('assets/carrito.png');*/
+	width: 30px;
+	height: 20px;
+	margin-left: 2000px;
+
+}
+#compradas{
+	width:50px;
+	height: 20px;
+	margin-left: 1070px;
+}
+
+#fender{
+	width:70px;
+	height: 20px;
+	padding-left: 20px;
+	margin-left: 500px;
+}
+
+#stratocaster{
+	width:70px;
+	height: 20px;
+	padding-left: 20px;
+}
+
+#gibson{
+	width:70px;
+	height: 20px;
+	padding-left: 20px;
+}
+
+#ibanez{
+	width:70px;
+	height: 20px;
+	padding-left: 10px;
+}
+
+#gotopage{
+	text-align: center;
+}
